@@ -1,7 +1,7 @@
 <div align="center">
   <img src="LevTronics%20Logo%20V2.jpeg" alt="LEVTRONICS Logo" width="150"/>
   <br><br>
-  <img src="OpticalLinkSimulatorDashboard_Logo.jpg" alt="Optical Link Simulator Dashboard Logo" width="400"/>
+  <img src="OpticalLinkSimulatorDashboard_Logo.png" alt="Optical Link Simulator Dashboard Logo" width="400"/>
 </div>
 
 # Optical Link Simulator Dashboard
@@ -12,7 +12,7 @@ A comprehensive MATLAB-based simulation dashboard for analyzing and calculating 
 This tool allows engineers and researchers to simulate optical communication routing, evaluating both Direct-to-Earth (DTE) and Inter-Satellite Links (ISL). It calculates complex link budgets, including Free-Space Path Loss (FSPL), geometric coupling, pointing loss, atmospheric attenuation, and total hop latency.
 
 <div align="center">
-  <img src="TLE_Report_Fig1_Dashboard.jpg" alt="Optical Link Simulator Dashboard Interface" width="800"/>
+  <img src="TLE_Report_Fig1_Dashboard.png" alt="Optical Link Simulator Dashboard Interface" width="800"/>
 </div>
 
 ## Features
