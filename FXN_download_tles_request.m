@@ -14,8 +14,8 @@ function outFile = FXN_download_tles_request(request, noradTxtPath)
     noradTxtPath = string(noradTxtPath);
 
     %% ===================== YOU MUST EDIT THIS =====================
-    username = "100562471@alumnos.uc3m.es";
-    password = "bCg_FU-jrPj9aU!";
+    username = "username";  % <---- Add Space-Track.org username
+    password = "password";  % <---- Add Space-Track.org password
     %% =============================================================
 
 if ~isfile(noradTxtPath)
